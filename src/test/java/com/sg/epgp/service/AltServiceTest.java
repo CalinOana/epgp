@@ -14,9 +14,12 @@ class AltServiceTest {
 
     AltService altService;
 
+    ServerPerspectiveService serverPerspectiveService;
+
     @BeforeEach
-    void setUp(){
-        altService=new AltService();
+    void setUp() {
+        serverPerspectiveService = new ServerPerspectiveService();
+        altService = new AltService(serverPerspectiveService);
     }
 
     @Test

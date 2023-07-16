@@ -2,12 +2,11 @@ package com.sg.epgp.service;
 
 import com.sg.epgp.model.PlayerEpGp;
 import com.sg.epgp.model.RaidAttendance;
-import org.apache.commons.collections4.MultiValuedMap;
 import org.apache.commons.collections4.multimap.ArrayListValuedHashMap;
-import org.assertj.core.util.Sets;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+import org.springframework.boot.autoconfigure.rsocket.RSocketProperties;
 
 import java.io.IOException;
 import java.math.BigDecimal;
@@ -17,10 +16,12 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class Aq40ServiceTest {
     Aq40Service aq40Service;
+    ServerPerspectiveService serverPerspectiveService;
 
     @BeforeEach
     void setUp() {
-        aq40Service = new Aq40Service(new AltService());
+        serverPerspectiveService = new ServerPerspectiveService();
+        aq40Service = new Aq40Service(new AltService(serverPerspectiveService), new EpgpComputingService());
     }
 
     @Test
