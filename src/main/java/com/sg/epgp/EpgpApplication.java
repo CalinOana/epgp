@@ -44,8 +44,8 @@ public class EpgpApplication {
         final List<PlayerEpGp> combinedNaxxAndAq40EpGp = epgpComputingService.combineWithExistingEpGpForPlayerAndAlts(aq40EpGp, naxxEpGp);
         final List<PlayerEpGp> serverPerspectiveCombinedNaxxAndAq40EpGP = serverPerspectiveService.getServerPerspectiveEpGP(combinedNaxxAndAq40EpGp);
         altService.readGuildMembers(true);
-        playerEpGpWriterService.writePlayerEpGpToCsv(serverPerspectiveCombinedNaxxAndAq40EpGP, "epGpStandings.csv");
-        System.out.println("hello world, I have just started up");
+        playerEpGpWriterService.writePlayerEpGpToCsv(serverPerspectiveCombinedNaxxAndAq40EpGP, "exports\\epGpStandings.csv");
+        System.out.println("success, check epGpStandings.csv and guildMainAltMapping.txt");
     }
 
 }

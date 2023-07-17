@@ -17,6 +17,15 @@
 ["Tutcy"] = {
 	"Velsigne",
 },
+["Benbrytaren"] = {
+	"Huggaträd-MirageRaceway",
+	"Slåberg-NethergardeKeep",
+	"Docenten-MirageRaceway",
+	"Krister-NethergardeKeep",
+	"Fazler-MirageRaceway",
+	"Smulan",
+	"Heligebörje-MirageRaceway",
+},
 ["Deezr-MirageRaceway"] = {
 	"Déezy",
 	"Dzfarm-MirageRaceway",
@@ -44,6 +53,9 @@
 	"Rubble",
 	"Salisya",
 },
+["Jazeerah"] = {
+	"Lumathra",
+},
 ["Druidofmir"] = {
 	"Markofmir",
 	"Warriorofmir",
@@ -51,9 +63,6 @@
 },
 ["Boreax-MirageRaceway"] = {
 	"Denthor-NethergardeKeep",
-},
-["Sarugirl-NethergardeKeep"] = {
-	"Valería-NethergardeKeep",
 },
 ["Blixthalka"] = {
 	"Nannae",
@@ -72,16 +81,20 @@
 	"Sluger-NethergardeKeep",
 	"Zaelofix-NethergardeKeep",
 },
+["Helenn-NethergardeKeep"] = {
+	"Sarugirl-NethergardeKeep",
+	"Valería-NethergardeKeep",
+},
 ["Cauvin-MirageRaceway"] = {
 	"Kilig-MirageRaceway",
 },
-["Ruhk"] = {
-	"Sicari",
-	"Skarlock",
+["Ceilie-NethergardeKeep"] = {
+	"Linyera",
 },
 ["Dondrakiis"] = {
 	"Dondrakiss",
 	"Dondrakis",
+	"Vandrakis",
 },
 ["Bonker-NethergardeKeep"] = {
 	"Stompson-NethergardeKeep",
@@ -98,6 +111,9 @@
 },
 ["Karamellie-NethergardeKeep"] = {
 	"Lyles-NethergardeKeep",
+},
+["Lernaut"] = {
+	"Tranule",
 },
 ["Fire"] = {
 	"Jude",
@@ -116,6 +132,9 @@
 	"Ezhuntard",
 	"Ezlock",
 },
+["Sicari"] = {
+	"Skarlock",
+},
 ["Phabi"] = {
 	"Phóbie",
 },
@@ -129,21 +148,9 @@
 	"Ravenshade-NethergardeKeep",
 	"Ösp",
 },
-["Zadedruid"] = {
-	"Zadelock",
-	"Zadepaly",
-	"Zadepriest",
-	"Zadewar",
-	"Zadezero",
-	"Zadehunt",
-	"Zaderogue",
-},
 ["Agobun"] = {
 	"Agoburn",
 	"Agobunreturn",
-},
-["Satänas"] = {
-	"Turgøn",
 },
 ["Belgarion-NethergardeKeep"] = {
 	"Tas-NethergardeKeep",
@@ -158,12 +165,6 @@
 	"Crépuscula",
 	"Féya",
 },
-["Docenten-MirageRaceway"] = {
-	"Huggaträd-MirageRaceway",
-	"Slåberg-NethergardeKeep",
-	"Krister-NethergardeKeep",
-	"Fazler-MirageRaceway",
-},
 ["Hiphoituri-MirageRaceway"] = {
 	"Hipryöväri-MirageRaceway",
 	"Hiplock-MirageRaceway",
@@ -173,6 +174,7 @@
 	"Hiptietäjä-MirageRaceway",
 },
 ["Latheralus"] = {
+	"Oxymoron",
 	"Rollins",
 	"Zurt",
 },
@@ -181,6 +183,9 @@
 },
 ["Grist"] = {
 	"Weatherlight",
+},
+["Kajaskja"] = {
+	"Títanía",
 },
 ["Skawolf"] = {
 	"Skazur",
@@ -234,18 +239,28 @@
 	"Omorax",
 	"Uroch",
 },
+["Diccinbaus"] = {
+	"Èos",
+	"Ilovedeek",
+},
+["Ariane"] = {
+	"Shania",
+},
 ["Bonkei"] = {
+	"Novacore",
+	"Hililuk",
+	"Roronoa",
 	"Woozie",
+},
+["Mélissande-NethergardeKeep"] = {
+	"Satänas",
+	"Turgøn",
 },
 ["Mccracken"] = {
 	"Pwny",
 },
 ["Roflrolf"] = {
 	"Warháwk",
-},
-["Aalenia-NethergardeKeep"] = {
-	"Linyera",
-	"Ceilie-NethergardeKeep",
 },
 ["Hela-NethergardeKeep"] = {
 	"Polgara-NethergardeKeep",
@@ -261,12 +276,12 @@
 	"Yojojo",
 	"Ziggypiggy",
 },
+["Zadelock"] = {
+	"Zadezero",
+},
 ["Gironima-MirageRaceway"] = {
 	"Gironis-MirageRaceway",
 	"Gironto-MirageRaceway",
-},
-["Minihero-NethergardeKeep"] = {
-	"Shadumbra-NethergardeKeep",
 },
 ["Monogorn"] = {
 	"Monogorna",
@@ -297,15 +312,16 @@
 	"Krösna-NethergardeKeep",
 	"Fobar-NethergardeKeep",
 },
-["Aszera-MirageRaceway"] = {
-	"Jaenelle-MirageRaceway",
-},
 ["Liabala"] = {
 	"Polarbeer",
 	"Mikehunt",
+	"Liaherbs-MirageRaceway",
 	"Notliabala",
 	"Thebluepill",
 	"Wiskeybarrel",
+},
+["Snippz"] = {
+	"Uvær",
 },
 ["Auctionhero-MirageRaceway"] = {
 	"Dalmok-MirageRaceway",
@@ -315,8 +331,10 @@
 },
 ["Iksen"] = {
 	"Wànda",
+	"Neski",
 },
 ["Bolt-MirageRaceway"] = {
+	"Merlina-MirageRaceway",
 	"Stormcrow-MirageRaceway",
 	"Joyce-MirageRaceway",
 	"Deathwish-MirageRaceway",
@@ -339,11 +357,11 @@
 	"Vár",
 },
 ["Grisespy"] = {
-	"Uldis",
 	"Linensstuff",
 	"Wetpaper",
-	"Hemmick",
-	"Softpaper",
+},
+["Bluetoes"] = {
+	"Snazen",
 },
 ["Cichy-PyrewoodVillage"] = {
 	"Gnomemonster-PyrewoodVillage",
@@ -363,6 +381,15 @@
 },
 ["Tutcy-PyrewoodVillage"] = {
 	"Velsigne-PyrewoodVillage",
+},
+["Benbrytaren-PyrewoodVillage"] = {
+	"Huggaträd-MirageRaceway",
+	"Slåberg",
+	"Docenten-MirageRaceway",
+	"Krister",
+	"Fazler-MirageRaceway",
+	"Smulan-PyrewoodVillage",
+	"Heligebörje-MirageRaceway",
 },
 ["Deezr-MirageRaceway"] = {
 	"Déezy-PyrewoodVillage",
@@ -391,6 +418,9 @@
 	"Rubble-PyrewoodVillage",
 	"Salisya-PyrewoodVillage",
 },
+["Jazeerah-PyrewoodVillage"] = {
+	"Lumathra-PyrewoodVillage",
+},
 ["Druidofmir-PyrewoodVillage"] = {
 	"Markofmir-PyrewoodVillage",
 	"Warriorofmir-PyrewoodVillage",
@@ -398,9 +428,6 @@
 },
 ["Boreax-MirageRaceway"] = {
 	"Denthor",
-},
-["Sarugirl"] = {
-	"Valería",
 },
 ["Blixthalka-PyrewoodVillage"] = {
 	"Nannae-PyrewoodVillage",
@@ -419,16 +446,20 @@
 	"Sluger",
 	"Zaelofix",
 },
+["Helenn"] = {
+	"Sarugirl",
+	"Valería",
+},
 ["Cauvin-MirageRaceway"] = {
 	"Kilig-MirageRaceway",
 },
-["Ruhk-PyrewoodVillage"] = {
-	"Sicari-PyrewoodVillage",
-	"Skarlock-PyrewoodVillage",
+["Ceilie"] = {
+	"Linyera-PyrewoodVillage",
 },
 ["Dondrakiis-PyrewoodVillage"] = {
 	"Dondrakiss-PyrewoodVillage",
 	"Dondrakis-PyrewoodVillage",
+	"Vandrakis-PyrewoodVillage",
 },
 ["Bonker"] = {
 	"Stompson",
@@ -445,6 +476,9 @@
 },
 ["Karamellie"] = {
 	"Lyles",
+},
+["Lernaut-PyrewoodVillage"] = {
+	"Tranule-PyrewoodVillage",
 },
 ["Fire-PyrewoodVillage"] = {
 	"Jude-PyrewoodVillage",
@@ -463,6 +497,9 @@
 	"Ezhuntard-PyrewoodVillage",
 	"Ezlock-PyrewoodVillage",
 },
+["Sicari-PyrewoodVillage"] = {
+	"Skarlock-PyrewoodVillage",
+},
 ["Phabi-PyrewoodVillage"] = {
 	"Phóbie-PyrewoodVillage",
 },
@@ -476,21 +513,9 @@
 	"Ravenshade",
 	"Ösp-PyrewoodVillage",
 },
-["Zadedruid-PyrewoodVillage"] = {
-	"Zadelock-PyrewoodVillage",
-	"Zadepaly-PyrewoodVillage",
-	"Zadepriest-PyrewoodVillage",
-	"Zadewar-PyrewoodVillage",
-	"Zadezero-PyrewoodVillage",
-	"Zadehunt-PyrewoodVillage",
-	"Zaderogue-PyrewoodVillage",
-},
 ["Agobun-PyrewoodVillage"] = {
 	"Agoburn-PyrewoodVillage",
 	"Agobunreturn-PyrewoodVillage",
-},
-["Satänas-PyrewoodVillage"] = {
-	"Turgøn-PyrewoodVillage",
 },
 ["Belgarion"] = {
 	"Tas",
@@ -505,12 +530,6 @@
 	"Crépuscula-PyrewoodVillage",
 	"Féya-PyrewoodVillage",
 },
-["Docenten-MirageRaceway"] = {
-	"Huggaträd-MirageRaceway",
-	"Slåberg",
-	"Krister",
-	"Fazler-MirageRaceway",
-},
 ["Hiphoituri-MirageRaceway"] = {
 	"Hipryöväri-MirageRaceway",
 	"Hiplock-MirageRaceway",
@@ -520,6 +539,7 @@
 	"Hiptietäjä-MirageRaceway",
 },
 ["Latheralus-PyrewoodVillage"] = {
+	"Oxymoron-PyrewoodVillage",
 	"Rollins-PyrewoodVillage",
 	"Zurt-PyrewoodVillage",
 },
@@ -528,6 +548,9 @@
 },
 ["Grist-PyrewoodVillage"] = {
 	"Weatherlight-PyrewoodVillage",
+},
+["Kajaskja-PyrewoodVillage"] = {
+	"Títanía-PyrewoodVillage",
 },
 ["Skawolf-PyrewoodVillage"] = {
 	"Skazur-PyrewoodVillage",
@@ -581,18 +604,28 @@
 	"Omorax-PyrewoodVillage",
 	"Uroch-PyrewoodVillage",
 },
+["Diccinbaus-PyrewoodVillage"] = {
+	"Èos-PyrewoodVillage",
+	"Ilovedeek-PyrewoodVillage",
+},
+["Ariane-PyrewoodVillage"] = {
+	"Shania-PyrewoodVillage",
+},
 ["Bonkei-PyrewoodVillage"] = {
+	"Novacore-PyrewoodVillage",
+	"Hililuk-PyrewoodVillage",
+	"Roronoa-PyrewoodVillage",
 	"Woozie-PyrewoodVillage",
+},
+["Mélissande"] = {
+	"Satänas-PyrewoodVillage",
+	"Turgøn-PyrewoodVillage",
 },
 ["Mccracken-PyrewoodVillage"] = {
 	"Pwny-PyrewoodVillage",
 },
 ["Roflrolf-PyrewoodVillage"] = {
 	"Warháwk-PyrewoodVillage",
-},
-["Aalenia"] = {
-	"Linyera-PyrewoodVillage",
-	"Ceilie",
 },
 ["Hela"] = {
 	"Polgara",
@@ -608,12 +641,12 @@
 	"Yojojo-PyrewoodVillage",
 	"Ziggypiggy-PyrewoodVillage",
 },
+["Zadelock-PyrewoodVillage"] = {
+	"Zadezero-PyrewoodVillage",
+},
 ["Gironima-MirageRaceway"] = {
 	"Gironis-MirageRaceway",
 	"Gironto-MirageRaceway",
-},
-["Minihero"] = {
-	"Shadumbra",
 },
 ["Monogorn-PyrewoodVillage"] = {
 	"Monogorna-PyrewoodVillage",
@@ -644,15 +677,16 @@
 	"Krösna",
 	"Fobar",
 },
-["Aszera-MirageRaceway"] = {
-	"Jaenelle-MirageRaceway",
-},
 ["Liabala-PyrewoodVillage"] = {
 	"Polarbeer-PyrewoodVillage",
 	"Mikehunt-PyrewoodVillage",
+	"Liaherbs-MirageRaceway",
 	"Notliabala-PyrewoodVillage",
 	"Thebluepill-PyrewoodVillage",
 	"Wiskeybarrel-PyrewoodVillage",
+},
+["Snippz-PyrewoodVillage"] = {
+	"Uvær-PyrewoodVillage",
 },
 ["Auctionhero-MirageRaceway"] = {
 	"Dalmok-MirageRaceway",
@@ -662,8 +696,10 @@
 },
 ["Iksen-PyrewoodVillage"] = {
 	"Wànda-PyrewoodVillage",
+	"Neski-PyrewoodVillage",
 },
 ["Bolt-MirageRaceway"] = {
+	"Merlina-MirageRaceway",
 	"Stormcrow-MirageRaceway",
 	"Joyce-MirageRaceway",
 	"Deathwish-MirageRaceway",
@@ -686,11 +722,11 @@
 	"Vár-PyrewoodVillage",
 },
 ["Grisespy-PyrewoodVillage"] = {
-	"Uldis-PyrewoodVillage",
 	"Linensstuff-PyrewoodVillage",
 	"Wetpaper-PyrewoodVillage",
-	"Hemmick-PyrewoodVillage",
-	"Softpaper-PyrewoodVillage",
+},
+["Bluetoes-PyrewoodVillage"] = {
+	"Snazen-PyrewoodVillage",
 },
 ["Cichy-PyrewoodVillage"] = {
 	"Gnomemonster-PyrewoodVillage",
@@ -710,6 +746,15 @@
 },
 ["Tutcy-PyrewoodVillage"] = {
 	"Velsigne-PyrewoodVillage",
+},
+["Benbrytaren-PyrewoodVillage"] = {
+	"Huggaträd",
+	"Slåberg-NethergardeKeep",
+	"Docenten",
+	"Krister-NethergardeKeep",
+	"Fazler",
+	"Smulan-PyrewoodVillage",
+	"Heligebörje",
 },
 ["Deezr"] = {
 	"Déezy-PyrewoodVillage",
@@ -738,6 +783,9 @@
 	"Rubble-PyrewoodVillage",
 	"Salisya-PyrewoodVillage",
 },
+["Jazeerah-PyrewoodVillage"] = {
+	"Lumathra-PyrewoodVillage",
+},
 ["Druidofmir-PyrewoodVillage"] = {
 	"Markofmir-PyrewoodVillage",
 	"Warriorofmir-PyrewoodVillage",
@@ -745,9 +793,6 @@
 },
 ["Boreax"] = {
 	"Denthor-NethergardeKeep",
-},
-["Sarugirl-NethergardeKeep"] = {
-	"Valería-NethergardeKeep",
 },
 ["Blixthalka-PyrewoodVillage"] = {
 	"Nannae-PyrewoodVillage",
@@ -766,16 +811,20 @@
 	"Sluger-NethergardeKeep",
 	"Zaelofix-NethergardeKeep",
 },
+["Helenn-NethergardeKeep"] = {
+	"Sarugirl-NethergardeKeep",
+	"Valería-NethergardeKeep",
+},
 ["Cauvin"] = {
 	"Kilig",
 },
-["Ruhk-PyrewoodVillage"] = {
-	"Sicari-PyrewoodVillage",
-	"Skarlock-PyrewoodVillage",
+["Ceilie-NethergardeKeep"] = {
+	"Linyera-PyrewoodVillage",
 },
 ["Dondrakiis-PyrewoodVillage"] = {
 	"Dondrakiss-PyrewoodVillage",
 	"Dondrakis-PyrewoodVillage",
+	"Vandrakis-PyrewoodVillage",
 },
 ["Bonker-NethergardeKeep"] = {
 	"Stompson-NethergardeKeep",
@@ -792,6 +841,9 @@
 },
 ["Karamellie-NethergardeKeep"] = {
 	"Lyles-NethergardeKeep",
+},
+["Lernaut-PyrewoodVillage"] = {
+	"Tranule-PyrewoodVillage",
 },
 ["Fire-PyrewoodVillage"] = {
 	"Jude-PyrewoodVillage",
@@ -810,6 +862,9 @@
 	"Ezhuntard-PyrewoodVillage",
 	"Ezlock-PyrewoodVillage",
 },
+["Sicari-PyrewoodVillage"] = {
+	"Skarlock-PyrewoodVillage",
+},
 ["Phabi-PyrewoodVillage"] = {
 	"Phóbie-PyrewoodVillage",
 },
@@ -823,21 +878,9 @@
 	"Ravenshade-NethergardeKeep",
 	"Ösp-PyrewoodVillage",
 },
-["Zadedruid-PyrewoodVillage"] = {
-	"Zadelock-PyrewoodVillage",
-	"Zadepaly-PyrewoodVillage",
-	"Zadepriest-PyrewoodVillage",
-	"Zadewar-PyrewoodVillage",
-	"Zadezero-PyrewoodVillage",
-	"Zadehunt-PyrewoodVillage",
-	"Zaderogue-PyrewoodVillage",
-},
 ["Agobun-PyrewoodVillage"] = {
 	"Agoburn-PyrewoodVillage",
 	"Agobunreturn-PyrewoodVillage",
-},
-["Satänas-PyrewoodVillage"] = {
-	"Turgøn-PyrewoodVillage",
 },
 ["Belgarion-NethergardeKeep"] = {
 	"Tas-NethergardeKeep",
@@ -852,12 +895,6 @@
 	"Crépuscula-PyrewoodVillage",
 	"Féya-PyrewoodVillage",
 },
-["Docenten"] = {
-	"Huggaträd",
-	"Slåberg-NethergardeKeep",
-	"Krister-NethergardeKeep",
-	"Fazler",
-},
 ["Hiphoituri"] = {
 	"Hipryöväri",
 	"Hiplock",
@@ -867,6 +904,7 @@
 	"Hiptietäjä",
 },
 ["Latheralus-PyrewoodVillage"] = {
+	"Oxymoron-PyrewoodVillage",
 	"Rollins-PyrewoodVillage",
 	"Zurt-PyrewoodVillage",
 },
@@ -875,6 +913,9 @@
 },
 ["Grist-PyrewoodVillage"] = {
 	"Weatherlight-PyrewoodVillage",
+},
+["Kajaskja-PyrewoodVillage"] = {
+	"Títanía-PyrewoodVillage",
 },
 ["Skawolf-PyrewoodVillage"] = {
 	"Skazur-PyrewoodVillage",
@@ -928,18 +969,28 @@
 	"Omorax-PyrewoodVillage",
 	"Uroch-PyrewoodVillage",
 },
+["Diccinbaus-PyrewoodVillage"] = {
+	"Èos-PyrewoodVillage",
+	"Ilovedeek-PyrewoodVillage",
+},
+["Ariane-PyrewoodVillage"] = {
+	"Shania-PyrewoodVillage",
+},
 ["Bonkei-PyrewoodVillage"] = {
+	"Novacore-PyrewoodVillage",
+	"Hililuk-PyrewoodVillage",
+	"Roronoa-PyrewoodVillage",
 	"Woozie-PyrewoodVillage",
+},
+["Mélissande-NethergardeKeep"] = {
+	"Satänas-PyrewoodVillage",
+	"Turgøn-PyrewoodVillage",
 },
 ["Mccracken-PyrewoodVillage"] = {
 	"Pwny-PyrewoodVillage",
 },
 ["Roflrolf-PyrewoodVillage"] = {
 	"Warháwk-PyrewoodVillage",
-},
-["Aalenia-NethergardeKeep"] = {
-	"Linyera-PyrewoodVillage",
-	"Ceilie-NethergardeKeep",
 },
 ["Hela-NethergardeKeep"] = {
 	"Polgara-NethergardeKeep",
@@ -955,12 +1006,12 @@
 	"Yojojo-PyrewoodVillage",
 	"Ziggypiggy-PyrewoodVillage",
 },
+["Zadelock-PyrewoodVillage"] = {
+	"Zadezero-PyrewoodVillage",
+},
 ["Gironima"] = {
 	"Gironis",
 	"Gironto",
-},
-["Minihero-NethergardeKeep"] = {
-	"Shadumbra-NethergardeKeep",
 },
 ["Monogorn-PyrewoodVillage"] = {
 	"Monogorna-PyrewoodVillage",
@@ -991,15 +1042,16 @@
 	"Krösna-NethergardeKeep",
 	"Fobar-NethergardeKeep",
 },
-["Aszera"] = {
-	"Jaenelle",
-},
 ["Liabala-PyrewoodVillage"] = {
 	"Polarbeer-PyrewoodVillage",
 	"Mikehunt-PyrewoodVillage",
+	"Liaherbs",
 	"Notliabala-PyrewoodVillage",
 	"Thebluepill-PyrewoodVillage",
 	"Wiskeybarrel-PyrewoodVillage",
+},
+["Snippz-PyrewoodVillage"] = {
+	"Uvær-PyrewoodVillage",
 },
 ["Auctionhero"] = {
 	"Dalmok",
@@ -1009,8 +1061,10 @@
 },
 ["Iksen-PyrewoodVillage"] = {
 	"Wànda-PyrewoodVillage",
+	"Neski-PyrewoodVillage",
 },
 ["Bolt"] = {
+	"Merlina",
 	"Stormcrow",
 	"Joyce",
 	"Deathwish",
@@ -1033,9 +1087,9 @@
 	"Vár-PyrewoodVillage",
 },
 ["Grisespy-PyrewoodVillage"] = {
-	"Uldis-PyrewoodVillage",
 	"Linensstuff-PyrewoodVillage",
 	"Wetpaper-PyrewoodVillage",
-	"Hemmick-PyrewoodVillage",
-	"Softpaper-PyrewoodVillage",
+},
+["Bluetoes-PyrewoodVillage"] = {
+	"Snazen-PyrewoodVillage",
 },

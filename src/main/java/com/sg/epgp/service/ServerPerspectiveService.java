@@ -29,7 +29,7 @@ public class ServerPerspectiveService {
     }
 
     public static void printMap(Map<String, Set<String>> map) throws IOException {
-        BufferedWriter writer = new BufferedWriter(new FileWriter("guildMainAltMapping.txt"));
+        BufferedWriter writer = new BufferedWriter(new FileWriter("exports\\guildMainAltMapping.txt"));
         Arrays.asList("PyrewoodVillage", "NethergardeKeep", "MirageRaceway").forEach(
             s -> {
                 map.forEach((String main, Set<String> alts) -> {

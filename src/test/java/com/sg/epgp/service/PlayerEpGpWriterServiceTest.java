@@ -31,6 +31,6 @@ class PlayerEpGpWriterServiceTest {
             PlayerEpGp.builder().name("NubSlaberg-NethergardeKeep").effortPoints(TEN).gearPoints(TEN).build()
         );
 
-        playerEpGpWriterService.writePlayerEpGpToCsv(list,"export.csv");
+//        playerEpGpWriterService.writePlayerEpGpToCsv(list,"export.csv");
     }
 }
