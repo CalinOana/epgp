@@ -82,6 +82,7 @@ Banksgcoin-NethergardeKeep;Alt;Agravanti-NethergardeKeep,Astalofix-NethergardeKe
 Banksgherb-NethergardeKeep;Alt;Agravanti-NethergardeKeep,Astalofix-NethergardeKeep,Banksg-NethergardeKeep,Banksgcoin-NethergardeKeep,Dorant-NethergardeKeep,Gurr-NethergardeKeep,Kuby-NethergardeKeep,Sluger-NethergardeKeep,Zaelofix-NethergardeKeep
 Banksgleath-NethergardeKeep;;
 Banksgore-NethergardeKeep;Main;
+Barak-PyrewoodVillage;;
 Barom-PyrewoodVillage;;
 Barsikk-PyrewoodVillage;Alt;Emboukkan-PyrewoodVillage
 Bebergamote-PyrewoodVillage;Alt;Bibounne-PyrewoodVillage,Cleanër-PyrewoodVillage,Dhealer-PyrewoodVillage,Petanker-PyrewoodVillage(main)
@@ -96,7 +97,7 @@ Birgis-PyrewoodVillage;;
 Bish-PyrewoodVillage;Main;
 Blixthalka-PyrewoodVillage;Alt;Nannae-PyrewoodVillage(main)
 Bloodomenbg-MirageRaceway;;
-Bluetoes-PyrewoodVillage;Alt;Snazen-PyrewoodVillage(main)
+Bluetoes-PyrewoodVillage;Alt;Refillplz-PyrewoodVillage,Snazen-PyrewoodVillage(main),Zygo-PyrewoodVillage,Zygothos-PyrewoodVillage
 Bodgenicely-MirageRaceway;;
 Bodus-PyrewoodVillage;;
 Bolt-MirageRaceway;Alt;Deathwish-MirageRaceway,Joyce-MirageRaceway,Merlina-MirageRaceway,Stormcrow-MirageRaceway(main)
@@ -256,6 +257,7 @@ Frid-PyrewoodVillage;;
 Frios-MirageRaceway;;
 Frostov-PyrewoodVillage;;
 Fuffy-NethergardeKeep;;
+Fullmetal-PyrewoodVillage;;
 Furieuse-PyrewoodVillage;;
 Furiosa-NethergardeKeep;Main;
 Fury-MirageRaceway;;
@@ -264,6 +266,7 @@ Fyrestorm-NethergardeKeep;Main;
 Féya-PyrewoodVillage;Alt;Aurorasylva-PyrewoodVillage,Crépuscula-PyrewoodVillage,Crépusculla-PyrewoodVillage
 Gaaryy-MirageRaceway;;
 Gaben-PyrewoodVillage;;
+Galactus-PyrewoodVillage;;
 Galihad-NethergardeKeep;Main;
 Galus-PyrewoodVillage;;
 Gandolfina-NethergardeKeep;;
@@ -289,6 +292,7 @@ Gnomemonster-PyrewoodVillage;Alt;Cichy-PyrewoodVillage,Turecki-PyrewoodVillage(m
 Gnomme-PyrewoodVillage;;
 Gnoworries-PyrewoodVillage;Main;
 Gnuliet-MirageRaceway;;
+Goldengnome-NethergardeKeep;;
 Gonz-NethergardeKeep;Main;
 Gonzbank-NethergardeKeep;;
 Goppe-PyrewoodVillage;Main;
@@ -321,6 +325,7 @@ Hairrypotter-MirageRaceway;;
 Halfsquats-PyrewoodVillage;;
 Haloeds-PyrewoodVillage;Main;
 Hammerstruck-PyrewoodVillage;Main;
+Handicapped-NethergardeKeep;;
 Happyflowers-PyrewoodVillage;Main;
 Hardwood-PyrewoodVillage;;
 Hau-MirageRaceway;Alt;Haugaard-MirageRaceway(main)
@@ -522,6 +527,7 @@ Missbehaven-NethergardeKeep;Main;
 Missnorge-PyrewoodVillage;;
 Mistri-PyrewoodVillage;;
 Mobil-MirageRaceway;;
+Moedra-MirageRaceway;;
 Monogorn-PyrewoodVillage;Main;Monogorna-PyrewoodVillage
 Monogorna-PyrewoodVillage;Alt;Monogorn-PyrewoodVillage(main)
 Moriya-PyrewoodVillage;Main;
@@ -624,7 +630,7 @@ Ratigana-PyrewoodVillage;Main;
 Ravenshade-NethergardeKeep;Alt;Anqua-PyrewoodVillage(main),Ösp-PyrewoodVillage
 Ravipaladin-NethergardeKeep;Main;
 Raviwarrior-NethergardeKeep;;
-Refillplz-PyrewoodVillage;;
+Refillplz-PyrewoodVillage;Alt;Bluetoes-PyrewoodVillage,Snazen-PyrewoodVillage(main),Zygo-PyrewoodVillage,Zygothos-PyrewoodVillage
 Renyard-PyrewoodVillage;;
 Restynpeace-PyrewoodVillage;;
 Revek-PyrewoodVillage;Main;
@@ -696,9 +702,9 @@ Smith-PyrewoodVillage;Alt;Fire-PyrewoodVillage,Hide-PyrewoodVillage,Jude-Pyrewoo
 Smokez-PyrewoodVillage;Main;
 Smrdljivko-MirageRaceway;;
 Smulan-PyrewoodVillage;Alt;Benbrytaren-PyrewoodVillage,Docenten-MirageRaceway,Fazler-MirageRaceway,Heligebörje-MirageRaceway,Huggaträd-MirageRaceway,Krister-NethergardeKeep,Slåberg-NethergardeKeep
-Snazen-PyrewoodVillage;Main;Bluetoes-PyrewoodVillage
+Snazen-PyrewoodVillage;Main;Bluetoes-PyrewoodVillage,Refillplz-PyrewoodVillage,Zygo-PyrewoodVillage,Zygothos-PyrewoodVillage
 Sneakygame-PyrewoodVillage;;
-Snippz-PyrewoodVillage;Alt;Uvær-PyrewoodVillage
+Snippz-PyrewoodVillage;Main;Uvær-PyrewoodVillage
 Snusdosan-MirageRaceway;Alt;Namnhelvete-MirageRaceway,Philanselmo-MirageRaceway
 Snyper-PyrewoodVillage;;
 Socks-NethergardeKeep;Main;
@@ -738,7 +744,7 @@ Sykia-PyrewoodVillage;;
 Sylerx-PyrewoodVillage;;
 Takatakatata-PyrewoodVillage;;
 Talon-MirageRaceway;;
-Tamuril-PyrewoodVillage;;
+Tamuril-PyrewoodVillage;Main;
 Tanglefoot-MirageRaceway;Main;
 Tartree-NethergardeKeep;Main;
 Tas-NethergardeKeep;Alt;Belgarion-NethergardeKeep,Elric-NethergardeKeep,Underhill-NethergardeKeep
@@ -749,6 +755,7 @@ Tezzurion-PyrewoodVillage;;
 Thebluepill-PyrewoodVillage;Alt;Liabala-PyrewoodVillage(main),Liaherbs-MirageRaceway,Mikehunt-PyrewoodVillage,Notliabala-PyrewoodVillage,Polarbeer-PyrewoodVillage,Wiskeybarrel-PyrewoodVillage
 Thengel-PyrewoodVillage;Main;
 Thrayn-PyrewoodVillage;;
+Thunderos-PyrewoodVillage;;
 Timenofear-MirageRaceway;Alt;Lastlane-MirageRaceway
 Tinkerbellé-MirageRaceway;;
 Tobiaspala-PyrewoodVillage;;
@@ -779,7 +786,7 @@ Underhill-NethergardeKeep;Alt;Belgarion-NethergardeKeep,Elric-NethergardeKeep,Ta
 Upsydaisy-PyrewoodVillage;Main;Yojojo-PyrewoodVillage,Ziggypiggy-PyrewoodVillage
 Uroch-PyrewoodVillage;Alt;Kaixali-PyrewoodVillage,Kharroch-PyrewoodVillage,Omorax-PyrewoodVillage,Veirani-PyrewoodVillage(main),Xaurime-PyrewoodVillage
 Uthers-PyrewoodVillage;Main;
-Uvær-PyrewoodVillage;Alt;Snippz-PyrewoodVillage
+Uvær-PyrewoodVillage;Alt;Snippz-PyrewoodVillage(main)
 Uwotfam-PyrewoodVillage;;
 Uzurpator-PyrewoodVillage;;
 Valería-NethergardeKeep;Alt;Helenn-NethergardeKeep(main),Sarugirl-NethergardeKeep
@@ -832,14 +839,14 @@ Yojojo-PyrewoodVillage;Alt;Upsydaisy-PyrewoodVillage(main),Ziggypiggy-PyrewoodVi
 Yoyogi-PyrewoodVillage;;
 Ysraic-PyrewoodVillage;Main;
 Yumtums-PyrewoodVillage;Main;
-Zadedruid-PyrewoodVillage;;
-Zadehunt-PyrewoodVillage;;
-Zadelock-PyrewoodVillage;Main;Zadezero-PyrewoodVillage
-Zadepaly-PyrewoodVillage;;
+Zadedruid-PyrewoodVillage;Alt;Zadehunt-PyrewoodVillage,Zadelock-PyrewoodVillage(main),Zadepaly-PyrewoodVillage,Zadezero-PyrewoodVillage
+Zadehunt-PyrewoodVillage;Alt;Zadedruid-PyrewoodVillage,Zadelock-PyrewoodVillage(main),Zadepaly-PyrewoodVillage,Zadezero-PyrewoodVillage
+Zadelock-PyrewoodVillage;Main;Zadedruid-PyrewoodVillage,Zadehunt-PyrewoodVillage,Zadepaly-PyrewoodVillage,Zadezero-PyrewoodVillage
+Zadepaly-PyrewoodVillage;Alt;Zadedruid-PyrewoodVillage,Zadehunt-PyrewoodVillage,Zadelock-PyrewoodVillage(main),Zadezero-PyrewoodVillage
 Zadepriest-PyrewoodVillage;;
 Zaderogue-PyrewoodVillage;;
 Zadewar-PyrewoodVillage;;
-Zadezero-PyrewoodVillage;Alt;Zadelock-PyrewoodVillage(main)
+Zadezero-PyrewoodVillage;Alt;Zadedruid-PyrewoodVillage,Zadehunt-PyrewoodVillage,Zadelock-PyrewoodVillage(main),Zadepaly-PyrewoodVillage
 Zaelofix-NethergardeKeep;Alt;Agravanti-NethergardeKeep,Astalofix-NethergardeKeep,Banksg-NethergardeKeep,Banksgcoin-NethergardeKeep,Banksgherb-NethergardeKeep,Dorant-NethergardeKeep,Gurr-NethergardeKeep,Kuby-NethergardeKeep,Sluger-NethergardeKeep
 Zakarian-NethergardeKeep;Main;
 Zamael-MirageRaceway;;
@@ -858,8 +865,8 @@ Zoro-PyrewoodVillage;;
 Zurt-PyrewoodVillage;Alt;Latheralus-PyrewoodVillage,Oxymoron-PyrewoodVillage,Rollins-PyrewoodVillage(main)
 Zvejka-PyrewoodVillage;Main;
 Zwilf-PyrewoodVillage;;
-Zygo-PyrewoodVillage;;
-Zygothos-PyrewoodVillage;;
+Zygo-PyrewoodVillage;Alt;Bluetoes-PyrewoodVillage,Refillplz-PyrewoodVillage,Snazen-PyrewoodVillage(main),Zygothos-PyrewoodVillage
+Zygothos-PyrewoodVillage;Alt;Bluetoes-PyrewoodVillage,Refillplz-PyrewoodVillage,Snazen-PyrewoodVillage(main),Zygo-PyrewoodVillage
 Zyirin-NethergardeKeep;;
 Zyx-NethergardeKeep;;
 Äbraba-PyrewoodVillage;;
