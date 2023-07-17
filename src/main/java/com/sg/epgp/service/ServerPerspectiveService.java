@@ -28,13 +28,13 @@ public class ServerPerspectiveService {
         return toReturn;
     }
 
-    public static void printMap(Map<String, Set<String>> map) throws IOException {
+    public static void printMap(Map<String, Set<String>> charLinks) throws IOException {
         BufferedWriter writer = new BufferedWriter(new FileWriter("exports\\guildMainAltMapping.txt"));
-        Arrays.asList("PyrewoodVillage", "NethergardeKeep", "MirageRaceway").forEach(
+        SERVER_CLUSTER_SERVERS.forEach(
             s -> {
-                map.forEach((String main, Set<String> alts) -> {
+                charLinks.forEach((String main, Set<String> alts) -> {
                     try {
-                        writer.write("[\"" + main.replace("-" + s, "") + "\"] = {");
+                        writer.write("[\"" + main.replace("-" + s, "") + "\"] = { -- serverPerspective: "+ s);
                         writer.newLine();
                         alts.forEach(alt -> {
                             try {

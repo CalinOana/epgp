@@ -1,8 +1,8 @@
-["Cichy"] = {
+["Cichy"] = { -- serverPerspective: PyrewoodVillage
 	"Gnomemonster",
 	"Turecki",
 },
-["Bertje-MirageRaceway"] = {
+["Bertje-MirageRaceway"] = { -- serverPerspective: PyrewoodVillage
 	"Okeydokey",
 	"Slapjanus",
 	"Slungel",
@@ -11,27 +11,27 @@
 	"Epke",
 	"Quackery",
 },
-["Darek-NethergardeKeep"] = {
+["Darek-NethergardeKeep"] = { -- serverPerspective: PyrewoodVillage
 	"Darkowiak-NethergardeKeep",
 },
-["Tutcy"] = {
+["Tutcy"] = { -- serverPerspective: PyrewoodVillage
 	"Velsigne",
 },
-["Benbrytaren"] = {
-	"Huggaträd-MirageRaceway",
+["Benbrytaren"] = { -- serverPerspective: PyrewoodVillage
+	"Heligebörje-MirageRaceway",
 	"Slåberg-NethergardeKeep",
 	"Docenten-MirageRaceway",
 	"Krister-NethergardeKeep",
 	"Fazler-MirageRaceway",
 	"Smulan",
-	"Heligebörje-MirageRaceway",
+	"Huggaträd-MirageRaceway",
 },
-["Deezr-MirageRaceway"] = {
+["Deezr-MirageRaceway"] = { -- serverPerspective: PyrewoodVillage
 	"Déezy",
 	"Dzfarm-MirageRaceway",
 	"Deezy-MirageRaceway",
 },
-["Hunterlegion"] = {
+["Hunterlegion"] = { -- serverPerspective: PyrewoodVillage
 	"Legionpower",
 	"Legionrock",
 	"Legiongold-MirageRaceway",
@@ -43,34 +43,34 @@
 	"Legionrogue",
 	"Legionwarior",
 },
-["Baerlyn-NethergardeKeep"] = {
+["Baerlyn-NethergardeKeep"] = { -- serverPerspective: PyrewoodVillage
 	"Wayren-NethergardeKeep",
 },
-["Curise-NethergardeKeep"] = {
+["Curise-NethergardeKeep"] = { -- serverPerspective: PyrewoodVillage
 	"Natureheals-NethergardeKeep",
 },
-["Kelissa"] = {
+["Kelissa"] = { -- serverPerspective: PyrewoodVillage
 	"Rubble",
 	"Salisya",
 },
-["Jazeerah"] = {
+["Jazeerah"] = { -- serverPerspective: PyrewoodVillage
 	"Lumathra",
 },
-["Druidofmir"] = {
+["Druidofmir"] = { -- serverPerspective: PyrewoodVillage
 	"Markofmir",
 	"Warriorofmir",
 	"Lockofmir",
 },
-["Boreax-MirageRaceway"] = {
+["Boreax-MirageRaceway"] = { -- serverPerspective: PyrewoodVillage
 	"Denthor-NethergardeKeep",
 },
-["Blixthalka"] = {
+["Blixthalka"] = { -- serverPerspective: PyrewoodVillage
 	"Nannae",
 },
-["Deadly"] = {
+["Deadly"] = { -- serverPerspective: PyrewoodVillage
 	"Deadlygun",
 },
-["Agravanti-NethergardeKeep"] = {
+["Agravanti-NethergardeKeep"] = { -- serverPerspective: PyrewoodVillage
 	"Kuby-NethergardeKeep",
 	"Astalofix-NethergardeKeep",
 	"Banksg-NethergardeKeep",
@@ -81,41 +81,41 @@
 	"Sluger-NethergardeKeep",
 	"Zaelofix-NethergardeKeep",
 },
-["Helenn-NethergardeKeep"] = {
-	"Sarugirl-NethergardeKeep",
+["Helenn-NethergardeKeep"] = { -- serverPerspective: PyrewoodVillage
 	"Valería-NethergardeKeep",
+	"Sarugirl-NethergardeKeep",
 },
-["Cauvin-MirageRaceway"] = {
+["Cauvin-MirageRaceway"] = { -- serverPerspective: PyrewoodVillage
 	"Kilig-MirageRaceway",
 },
-["Ceilie-NethergardeKeep"] = {
+["Ceilie-NethergardeKeep"] = { -- serverPerspective: PyrewoodVillage
 	"Linyera",
 },
-["Dondrakiis"] = {
+["Dondrakiis"] = { -- serverPerspective: PyrewoodVillage
 	"Dondrakiss",
 	"Dondrakis",
 	"Vandrakis",
 },
-["Bonker-NethergardeKeep"] = {
+["Bonker-NethergardeKeep"] = { -- serverPerspective: PyrewoodVillage
 	"Stompson-NethergardeKeep",
 },
-["Gracilis-MirageRaceway"] = {
-	"Parvusfemina-MirageRaceway",
+["Gracilis-MirageRaceway"] = { -- serverPerspective: PyrewoodVillage
 	"Plåstra-MirageRaceway",
+	"Parvusfemina-MirageRaceway",
 },
-["Lastlane-MirageRaceway"] = {
+["Lastlane-MirageRaceway"] = { -- serverPerspective: PyrewoodVillage
 	"Timenofear-MirageRaceway",
 },
-["Hau-MirageRaceway"] = {
+["Hau-MirageRaceway"] = { -- serverPerspective: PyrewoodVillage
 	"Haugaard-MirageRaceway",
 },
-["Karamellie-NethergardeKeep"] = {
+["Karamellie-NethergardeKeep"] = { -- serverPerspective: PyrewoodVillage
 	"Lyles-NethergardeKeep",
 },
-["Lernaut"] = {
+["Lernaut"] = { -- serverPerspective: PyrewoodVillage
 	"Tranule",
 },
-["Fire"] = {
+["Fire"] = { -- serverPerspective: PyrewoodVillage
 	"Jude",
 	"Smith",
 	"Soul",
@@ -125,47 +125,53 @@
 	"Hide",
 	"Sane",
 },
-["Damagecase"] = {
+["Damagecase"] = { -- serverPerspective: PyrewoodVillage
 	"Implifier",
 },
-["Ezelleas"] = {
+["Ezelleas"] = { -- serverPerspective: PyrewoodVillage
 	"Ezhuntard",
 	"Ezlock",
 },
-["Sicari"] = {
+["Sicari"] = { -- serverPerspective: PyrewoodVillage
 	"Skarlock",
 },
-["Phabi"] = {
+["Phabi"] = { -- serverPerspective: PyrewoodVillage
 	"Phóbie",
 },
-["Althur-MirageRaceway"] = {
+["Althur-MirageRaceway"] = { -- serverPerspective: PyrewoodVillage
 	"Icehell-MirageRaceway",
 },
-["Emberfall"] = {
+["Emberfall"] = { -- serverPerspective: PyrewoodVillage
 	"Nightstrider",
 },
-["Anqua"] = {
+["Anqua"] = { -- serverPerspective: PyrewoodVillage
 	"Ravenshade-NethergardeKeep",
 	"Ösp",
 },
-["Agobun"] = {
+["Zadedruid"] = { -- serverPerspective: PyrewoodVillage
+	"Zadelock",
+	"Zadepaly",
+	"Zadezero",
+	"Zadehunt",
+},
+["Agobun"] = { -- serverPerspective: PyrewoodVillage
 	"Agoburn",
 	"Agobunreturn",
 },
-["Belgarion-NethergardeKeep"] = {
+["Belgarion-NethergardeKeep"] = { -- serverPerspective: PyrewoodVillage
 	"Tas-NethergardeKeep",
 	"Elric-NethergardeKeep",
 	"Underhill-NethergardeKeep",
 },
-["Shendhealing-MirageRaceway"] = {
+["Shendhealing-MirageRaceway"] = { -- serverPerspective: PyrewoodVillage
 	"Shendnoods-MirageRaceway",
 },
-["Aurorasylva"] = {
+["Aurorasylva"] = { -- serverPerspective: PyrewoodVillage
+	"Féya",
 	"Crépusculla",
 	"Crépuscula",
-	"Féya",
 },
-["Hiphoituri-MirageRaceway"] = {
+["Hiphoituri-MirageRaceway"] = { -- serverPerspective: PyrewoodVillage
 	"Hipryöväri-MirageRaceway",
 	"Hiplock-MirageRaceway",
 	"Hiptaikuri-MirageRaceway",
@@ -173,31 +179,35 @@
 	"Hiphuntteri-MirageRaceway",
 	"Hiptietäjä-MirageRaceway",
 },
-["Latheralus"] = {
+["Latheralus"] = { -- serverPerspective: PyrewoodVillage
 	"Oxymoron",
 	"Rollins",
 	"Zurt",
 },
-["Darkage"] = {
+["Darkage"] = { -- serverPerspective: PyrewoodVillage
 	"Lexi",
 },
-["Grist"] = {
+["Grist"] = { -- serverPerspective: PyrewoodVillage
 	"Weatherlight",
 },
-["Kajaskja"] = {
+["Kajaskja"] = { -- serverPerspective: PyrewoodVillage
 	"Títanía",
 },
-["Skawolf"] = {
+["Skawolf"] = { -- serverPerspective: PyrewoodVillage
 	"Skazur",
 },
-["Namnhelvete-MirageRaceway"] = {
+["Namnhelvete-MirageRaceway"] = { -- serverPerspective: PyrewoodVillage
 	"Snusdosan-MirageRaceway",
 	"Philanselmo-MirageRaceway",
 },
-["Belesuna"] = {
+["Belesuna"] = { -- serverPerspective: PyrewoodVillage
 	"Mahulena",
 },
-["Bajdoffa"] = {
+["Mélissande-NethergardeKeep"] = { -- serverPerspective: PyrewoodVillage
+	"Turgøn",
+	"Satänas",
+},
+["Bajdoffa"] = { -- serverPerspective: PyrewoodVillage
 	"Bajdoffpala",
 	"Bajdoffw",
 	"Bajdoffbank",
@@ -206,113 +216,109 @@
 	"Bajdoffr",
 	"Bajdoffy",
 },
-["Eliphaslevi-MirageRaceway"] = {
+["Eliphaslevi-MirageRaceway"] = { -- serverPerspective: PyrewoodVillage
 	"Julius-MirageRaceway",
 	"Jonassalk-MirageRaceway",
 	"Isabella-MirageRaceway",
 	"Jadis-MirageRaceway",
 	"Robiku-MirageRaceway",
 },
-["Erguine-MirageRaceway"] = {
+["Erguine-MirageRaceway"] = { -- serverPerspective: PyrewoodVillage
 	"Ertzaki-MirageRaceway",
 },
-["Dalgren"] = {
+["Dalgren"] = { -- serverPerspective: PyrewoodVillage
 	"Miljac",
 	"Enkidu",
 	"Kaim",
 	"Ilira",
 },
-["Gennu-NethergardeKeep"] = {
+["Gennu-NethergardeKeep"] = { -- serverPerspective: PyrewoodVillage
 	"Gurlarn-NethergardeKeep",
 	"Jeroed-NethergardeKeep",
 },
-["Rosie"] = {
+["Rosie"] = { -- serverPerspective: PyrewoodVillage
 	"Rosiefire",
 },
-["Brewlord-NethergardeKeep"] = {
+["Brewlord-NethergardeKeep"] = { -- serverPerspective: PyrewoodVillage
 	"Captbsmith-NethergardeKeep",
 },
-["Kaixali"] = {
+["Kaixali"] = { -- serverPerspective: PyrewoodVillage
 	"Xaurime",
 	"Veirani",
 	"Kharroch",
 	"Omorax",
 	"Uroch",
 },
-["Diccinbaus"] = {
+["Diccinbaus"] = { -- serverPerspective: PyrewoodVillage
 	"Èos",
 	"Ilovedeek",
 },
-["Ariane"] = {
+["Ariane"] = { -- serverPerspective: PyrewoodVillage
 	"Shania",
 },
-["Bonkei"] = {
+["Bonkei"] = { -- serverPerspective: PyrewoodVillage
 	"Novacore",
 	"Hililuk",
 	"Roronoa",
 	"Woozie",
 },
-["Mélissande-NethergardeKeep"] = {
-	"Satänas",
-	"Turgøn",
-},
-["Mccracken"] = {
+["Mccracken"] = { -- serverPerspective: PyrewoodVillage
 	"Pwny",
 },
-["Roflrolf"] = {
+["Roflrolf"] = { -- serverPerspective: PyrewoodVillage
 	"Warháwk",
 },
-["Hela-NethergardeKeep"] = {
+["Hela-NethergardeKeep"] = { -- serverPerspective: PyrewoodVillage
 	"Polgara-NethergardeKeep",
 	"Nemesis-NethergardeKeep",
 },
-["Vidina-MirageRaceway"] = {
+["Vidina-MirageRaceway"] = { -- serverPerspective: PyrewoodVillage
 	"Vidina",
 },
-["Grixi-MirageRaceway"] = {
+["Grixi-MirageRaceway"] = { -- serverPerspective: PyrewoodVillage
 	"Ragekyle-MirageRaceway",
 },
-["Upsydaisy"] = {
+["Gstríng-MirageRaceway"] = { -- serverPerspective: PyrewoodVillage
+	"Proctologist-MirageRaceway",
+},
+["Upsydaisy"] = { -- serverPerspective: PyrewoodVillage
 	"Yojojo",
 	"Ziggypiggy",
 },
-["Zadelock"] = {
-	"Zadezero",
-},
-["Gironima-MirageRaceway"] = {
+["Gironima-MirageRaceway"] = { -- serverPerspective: PyrewoodVillage
 	"Gironis-MirageRaceway",
 	"Gironto-MirageRaceway",
 },
-["Monogorn"] = {
+["Monogorn"] = { -- serverPerspective: PyrewoodVillage
 	"Monogorna",
 },
-["Alen"] = {
+["Alen"] = { -- serverPerspective: PyrewoodVillage
 	"David",
 },
-["Bebergamote"] = {
+["Bebergamote"] = { -- serverPerspective: PyrewoodVillage
 	"Dhealer",
 	"Bibounne",
 	"Cleanër",
 	"Petanker",
 },
-["Catschen"] = {
+["Catschen"] = { -- serverPerspective: PyrewoodVillage
 	"Lucker",
 },
-["Corrai"] = {
+["Corrai"] = { -- serverPerspective: PyrewoodVillage
 	"Ivyrayne",
 	"Vishious",
 	"Inkie",
 	"Libbie",
 	"Dawt",
 },
-["Saleeh"] = {
+["Saleeh"] = { -- serverPerspective: PyrewoodVillage
 	"Seleeh",
 },
-["Fabar-NethergardeKeep"] = {
-	"Krösna-NethergardeKeep",
+["Fabar-NethergardeKeep"] = { -- serverPerspective: PyrewoodVillage
 	"Fobar-NethergardeKeep",
+	"Krösna-NethergardeKeep",
 },
-["Liabala"] = {
+["Liabala"] = { -- serverPerspective: PyrewoodVillage
 	"Polarbeer",
 	"Mikehunt",
 	"Liaherbs-MirageRaceway",
@@ -320,54 +326,54 @@
 	"Thebluepill",
 	"Wiskeybarrel",
 },
-["Snippz"] = {
+["Snippz"] = { -- serverPerspective: PyrewoodVillage
 	"Uvær",
 },
-["Auctionhero-MirageRaceway"] = {
+["Auctionhero-MirageRaceway"] = { -- serverPerspective: PyrewoodVillage
 	"Dalmok-MirageRaceway",
 },
-["Gstríng-MirageRaceway"] = {
-	"Proctologist-MirageRaceway",
-},
-["Iksen"] = {
+["Iksen"] = { -- serverPerspective: PyrewoodVillage
 	"Wànda",
 	"Neski",
 },
-["Bolt-MirageRaceway"] = {
+["Bolt-MirageRaceway"] = { -- serverPerspective: PyrewoodVillage
 	"Merlina-MirageRaceway",
 	"Stormcrow-MirageRaceway",
 	"Joyce-MirageRaceway",
 	"Deathwish-MirageRaceway",
 },
-["Kyia"] = {
+["Kyia"] = { -- serverPerspective: PyrewoodVillage
 	"Ronna",
 },
-["Barsikk"] = {
+["Barsikk"] = { -- serverPerspective: PyrewoodVillage
 	"Emboukkan",
 },
-["Corto"] = {
+["Gunnvá"] = { -- serverPerspective: PyrewoodVillage
+	"Vár",
+},
+["Corto"] = { -- serverPerspective: PyrewoodVillage
 	"Driel",
 },
-["Littlek"] = {
+["Littlek"] = { -- serverPerspective: PyrewoodVillage
 	"Lucenera",
 	"Littlestar",
 	"Nibiru",
 },
-["Gunnvá"] = {
-	"Vár",
-},
-["Grisespy"] = {
+["Grisespy"] = { -- serverPerspective: PyrewoodVillage
 	"Linensstuff",
 	"Wetpaper",
 },
-["Bluetoes"] = {
+["Bluetoes"] = { -- serverPerspective: PyrewoodVillage
+	"Zygothos",
 	"Snazen",
+	"Refillplz",
+	"Zygo",
 },
-["Cichy-PyrewoodVillage"] = {
+["Cichy-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Gnomemonster-PyrewoodVillage",
 	"Turecki-PyrewoodVillage",
 },
-["Bertje-MirageRaceway"] = {
+["Bertje-MirageRaceway"] = { -- serverPerspective: NethergardeKeep
 	"Okeydokey-PyrewoodVillage",
 	"Slapjanus-PyrewoodVillage",
 	"Slungel-PyrewoodVillage",
@@ -376,27 +382,27 @@
 	"Epke-PyrewoodVillage",
 	"Quackery-PyrewoodVillage",
 },
-["Darek"] = {
+["Darek"] = { -- serverPerspective: NethergardeKeep
 	"Darkowiak",
 },
-["Tutcy-PyrewoodVillage"] = {
+["Tutcy-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Velsigne-PyrewoodVillage",
 },
-["Benbrytaren-PyrewoodVillage"] = {
-	"Huggaträd-MirageRaceway",
+["Benbrytaren-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
+	"Heligebörje-MirageRaceway",
 	"Slåberg",
 	"Docenten-MirageRaceway",
 	"Krister",
 	"Fazler-MirageRaceway",
 	"Smulan-PyrewoodVillage",
-	"Heligebörje-MirageRaceway",
+	"Huggaträd-MirageRaceway",
 },
-["Deezr-MirageRaceway"] = {
+["Deezr-MirageRaceway"] = { -- serverPerspective: NethergardeKeep
 	"Déezy-PyrewoodVillage",
 	"Dzfarm-MirageRaceway",
 	"Deezy-MirageRaceway",
 },
-["Hunterlegion-PyrewoodVillage"] = {
+["Hunterlegion-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Legionpower-PyrewoodVillage",
 	"Legionrock-PyrewoodVillage",
 	"Legiongold-MirageRaceway",
@@ -408,34 +414,34 @@
 	"Legionrogue-PyrewoodVillage",
 	"Legionwarior-PyrewoodVillage",
 },
-["Baerlyn"] = {
+["Baerlyn"] = { -- serverPerspective: NethergardeKeep
 	"Wayren",
 },
-["Curise"] = {
+["Curise"] = { -- serverPerspective: NethergardeKeep
 	"Natureheals",
 },
-["Kelissa-PyrewoodVillage"] = {
+["Kelissa-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Rubble-PyrewoodVillage",
 	"Salisya-PyrewoodVillage",
 },
-["Jazeerah-PyrewoodVillage"] = {
+["Jazeerah-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Lumathra-PyrewoodVillage",
 },
-["Druidofmir-PyrewoodVillage"] = {
+["Druidofmir-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Markofmir-PyrewoodVillage",
 	"Warriorofmir-PyrewoodVillage",
 	"Lockofmir-PyrewoodVillage",
 },
-["Boreax-MirageRaceway"] = {
+["Boreax-MirageRaceway"] = { -- serverPerspective: NethergardeKeep
 	"Denthor",
 },
-["Blixthalka-PyrewoodVillage"] = {
+["Blixthalka-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Nannae-PyrewoodVillage",
 },
-["Deadly-PyrewoodVillage"] = {
+["Deadly-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Deadlygun-PyrewoodVillage",
 },
-["Agravanti"] = {
+["Agravanti"] = { -- serverPerspective: NethergardeKeep
 	"Kuby",
 	"Astalofix",
 	"Banksg",
@@ -446,41 +452,41 @@
 	"Sluger",
 	"Zaelofix",
 },
-["Helenn"] = {
-	"Sarugirl",
+["Helenn"] = { -- serverPerspective: NethergardeKeep
 	"Valería",
+	"Sarugirl",
 },
-["Cauvin-MirageRaceway"] = {
+["Cauvin-MirageRaceway"] = { -- serverPerspective: NethergardeKeep
 	"Kilig-MirageRaceway",
 },
-["Ceilie"] = {
+["Ceilie"] = { -- serverPerspective: NethergardeKeep
 	"Linyera-PyrewoodVillage",
 },
-["Dondrakiis-PyrewoodVillage"] = {
+["Dondrakiis-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Dondrakiss-PyrewoodVillage",
 	"Dondrakis-PyrewoodVillage",
 	"Vandrakis-PyrewoodVillage",
 },
-["Bonker"] = {
+["Bonker"] = { -- serverPerspective: NethergardeKeep
 	"Stompson",
 },
-["Gracilis-MirageRaceway"] = {
-	"Parvusfemina-MirageRaceway",
+["Gracilis-MirageRaceway"] = { -- serverPerspective: NethergardeKeep
 	"Plåstra-MirageRaceway",
+	"Parvusfemina-MirageRaceway",
 },
-["Lastlane-MirageRaceway"] = {
+["Lastlane-MirageRaceway"] = { -- serverPerspective: NethergardeKeep
 	"Timenofear-MirageRaceway",
 },
-["Hau-MirageRaceway"] = {
+["Hau-MirageRaceway"] = { -- serverPerspective: NethergardeKeep
 	"Haugaard-MirageRaceway",
 },
-["Karamellie"] = {
+["Karamellie"] = { -- serverPerspective: NethergardeKeep
 	"Lyles",
 },
-["Lernaut-PyrewoodVillage"] = {
+["Lernaut-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Tranule-PyrewoodVillage",
 },
-["Fire-PyrewoodVillage"] = {
+["Fire-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Jude-PyrewoodVillage",
 	"Smith-PyrewoodVillage",
 	"Soul-PyrewoodVillage",
@@ -490,47 +496,53 @@
 	"Hide-PyrewoodVillage",
 	"Sane-PyrewoodVillage",
 },
-["Damagecase-PyrewoodVillage"] = {
+["Damagecase-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Implifier-PyrewoodVillage",
 },
-["Ezelleas-PyrewoodVillage"] = {
+["Ezelleas-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Ezhuntard-PyrewoodVillage",
 	"Ezlock-PyrewoodVillage",
 },
-["Sicari-PyrewoodVillage"] = {
+["Sicari-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Skarlock-PyrewoodVillage",
 },
-["Phabi-PyrewoodVillage"] = {
+["Phabi-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Phóbie-PyrewoodVillage",
 },
-["Althur-MirageRaceway"] = {
+["Althur-MirageRaceway"] = { -- serverPerspective: NethergardeKeep
 	"Icehell-MirageRaceway",
 },
-["Emberfall-PyrewoodVillage"] = {
+["Emberfall-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Nightstrider-PyrewoodVillage",
 },
-["Anqua-PyrewoodVillage"] = {
+["Anqua-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Ravenshade",
 	"Ösp-PyrewoodVillage",
 },
-["Agobun-PyrewoodVillage"] = {
+["Zadedruid-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
+	"Zadelock-PyrewoodVillage",
+	"Zadepaly-PyrewoodVillage",
+	"Zadezero-PyrewoodVillage",
+	"Zadehunt-PyrewoodVillage",
+},
+["Agobun-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Agoburn-PyrewoodVillage",
 	"Agobunreturn-PyrewoodVillage",
 },
-["Belgarion"] = {
+["Belgarion"] = { -- serverPerspective: NethergardeKeep
 	"Tas",
 	"Elric",
 	"Underhill",
 },
-["Shendhealing-MirageRaceway"] = {
+["Shendhealing-MirageRaceway"] = { -- serverPerspective: NethergardeKeep
 	"Shendnoods-MirageRaceway",
 },
-["Aurorasylva-PyrewoodVillage"] = {
+["Aurorasylva-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
+	"Féya-PyrewoodVillage",
 	"Crépusculla-PyrewoodVillage",
 	"Crépuscula-PyrewoodVillage",
-	"Féya-PyrewoodVillage",
 },
-["Hiphoituri-MirageRaceway"] = {
+["Hiphoituri-MirageRaceway"] = { -- serverPerspective: NethergardeKeep
 	"Hipryöväri-MirageRaceway",
 	"Hiplock-MirageRaceway",
 	"Hiptaikuri-MirageRaceway",
@@ -538,31 +550,35 @@
 	"Hiphuntteri-MirageRaceway",
 	"Hiptietäjä-MirageRaceway",
 },
-["Latheralus-PyrewoodVillage"] = {
+["Latheralus-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Oxymoron-PyrewoodVillage",
 	"Rollins-PyrewoodVillage",
 	"Zurt-PyrewoodVillage",
 },
-["Darkage-PyrewoodVillage"] = {
+["Darkage-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Lexi-PyrewoodVillage",
 },
-["Grist-PyrewoodVillage"] = {
+["Grist-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Weatherlight-PyrewoodVillage",
 },
-["Kajaskja-PyrewoodVillage"] = {
+["Kajaskja-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Títanía-PyrewoodVillage",
 },
-["Skawolf-PyrewoodVillage"] = {
+["Skawolf-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Skazur-PyrewoodVillage",
 },
-["Namnhelvete-MirageRaceway"] = {
+["Namnhelvete-MirageRaceway"] = { -- serverPerspective: NethergardeKeep
 	"Snusdosan-MirageRaceway",
 	"Philanselmo-MirageRaceway",
 },
-["Belesuna-PyrewoodVillage"] = {
+["Belesuna-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Mahulena-PyrewoodVillage",
 },
-["Bajdoffa-PyrewoodVillage"] = {
+["Mélissande"] = { -- serverPerspective: NethergardeKeep
+	"Turgøn-PyrewoodVillage",
+	"Satänas-PyrewoodVillage",
+},
+["Bajdoffa-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Bajdoffpala-PyrewoodVillage",
 	"Bajdoffw-PyrewoodVillage",
 	"Bajdoffbank-PyrewoodVillage",
@@ -571,113 +587,109 @@
 	"Bajdoffr-PyrewoodVillage",
 	"Bajdoffy-PyrewoodVillage",
 },
-["Eliphaslevi-MirageRaceway"] = {
+["Eliphaslevi-MirageRaceway"] = { -- serverPerspective: NethergardeKeep
 	"Julius-MirageRaceway",
 	"Jonassalk-MirageRaceway",
 	"Isabella-MirageRaceway",
 	"Jadis-MirageRaceway",
 	"Robiku-MirageRaceway",
 },
-["Erguine-MirageRaceway"] = {
+["Erguine-MirageRaceway"] = { -- serverPerspective: NethergardeKeep
 	"Ertzaki-MirageRaceway",
 },
-["Dalgren-PyrewoodVillage"] = {
+["Dalgren-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Miljac-PyrewoodVillage",
 	"Enkidu-PyrewoodVillage",
 	"Kaim-PyrewoodVillage",
 	"Ilira-PyrewoodVillage",
 },
-["Gennu"] = {
+["Gennu"] = { -- serverPerspective: NethergardeKeep
 	"Gurlarn",
 	"Jeroed",
 },
-["Rosie-PyrewoodVillage"] = {
+["Rosie-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Rosiefire-PyrewoodVillage",
 },
-["Brewlord"] = {
+["Brewlord"] = { -- serverPerspective: NethergardeKeep
 	"Captbsmith",
 },
-["Kaixali-PyrewoodVillage"] = {
+["Kaixali-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Xaurime-PyrewoodVillage",
 	"Veirani-PyrewoodVillage",
 	"Kharroch-PyrewoodVillage",
 	"Omorax-PyrewoodVillage",
 	"Uroch-PyrewoodVillage",
 },
-["Diccinbaus-PyrewoodVillage"] = {
+["Diccinbaus-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Èos-PyrewoodVillage",
 	"Ilovedeek-PyrewoodVillage",
 },
-["Ariane-PyrewoodVillage"] = {
+["Ariane-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Shania-PyrewoodVillage",
 },
-["Bonkei-PyrewoodVillage"] = {
+["Bonkei-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Novacore-PyrewoodVillage",
 	"Hililuk-PyrewoodVillage",
 	"Roronoa-PyrewoodVillage",
 	"Woozie-PyrewoodVillage",
 },
-["Mélissande"] = {
-	"Satänas-PyrewoodVillage",
-	"Turgøn-PyrewoodVillage",
-},
-["Mccracken-PyrewoodVillage"] = {
+["Mccracken-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Pwny-PyrewoodVillage",
 },
-["Roflrolf-PyrewoodVillage"] = {
+["Roflrolf-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Warháwk-PyrewoodVillage",
 },
-["Hela"] = {
+["Hela"] = { -- serverPerspective: NethergardeKeep
 	"Polgara",
 	"Nemesis",
 },
-["Vidina-MirageRaceway"] = {
+["Vidina-MirageRaceway"] = { -- serverPerspective: NethergardeKeep
 	"Vidina-PyrewoodVillage",
 },
-["Grixi-MirageRaceway"] = {
+["Grixi-MirageRaceway"] = { -- serverPerspective: NethergardeKeep
 	"Ragekyle-MirageRaceway",
 },
-["Upsydaisy-PyrewoodVillage"] = {
+["Gstríng-MirageRaceway"] = { -- serverPerspective: NethergardeKeep
+	"Proctologist-MirageRaceway",
+},
+["Upsydaisy-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Yojojo-PyrewoodVillage",
 	"Ziggypiggy-PyrewoodVillage",
 },
-["Zadelock-PyrewoodVillage"] = {
-	"Zadezero-PyrewoodVillage",
-},
-["Gironima-MirageRaceway"] = {
+["Gironima-MirageRaceway"] = { -- serverPerspective: NethergardeKeep
 	"Gironis-MirageRaceway",
 	"Gironto-MirageRaceway",
 },
-["Monogorn-PyrewoodVillage"] = {
+["Monogorn-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Monogorna-PyrewoodVillage",
 },
-["Alen-PyrewoodVillage"] = {
+["Alen-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"David-PyrewoodVillage",
 },
-["Bebergamote-PyrewoodVillage"] = {
+["Bebergamote-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Dhealer-PyrewoodVillage",
 	"Bibounne-PyrewoodVillage",
 	"Cleanër-PyrewoodVillage",
 	"Petanker-PyrewoodVillage",
 },
-["Catschen-PyrewoodVillage"] = {
+["Catschen-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Lucker-PyrewoodVillage",
 },
-["Corrai-PyrewoodVillage"] = {
+["Corrai-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Ivyrayne-PyrewoodVillage",
 	"Vishious-PyrewoodVillage",
 	"Inkie-PyrewoodVillage",
 	"Libbie-PyrewoodVillage",
 	"Dawt-PyrewoodVillage",
 },
-["Saleeh-PyrewoodVillage"] = {
+["Saleeh-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Seleeh-PyrewoodVillage",
 },
-["Fabar"] = {
-	"Krösna",
+["Fabar"] = { -- serverPerspective: NethergardeKeep
 	"Fobar",
+	"Krösna",
 },
-["Liabala-PyrewoodVillage"] = {
+["Liabala-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Polarbeer-PyrewoodVillage",
 	"Mikehunt-PyrewoodVillage",
 	"Liaherbs-MirageRaceway",
@@ -685,54 +697,54 @@
 	"Thebluepill-PyrewoodVillage",
 	"Wiskeybarrel-PyrewoodVillage",
 },
-["Snippz-PyrewoodVillage"] = {
+["Snippz-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Uvær-PyrewoodVillage",
 },
-["Auctionhero-MirageRaceway"] = {
+["Auctionhero-MirageRaceway"] = { -- serverPerspective: NethergardeKeep
 	"Dalmok-MirageRaceway",
 },
-["Gstríng-MirageRaceway"] = {
-	"Proctologist-MirageRaceway",
-},
-["Iksen-PyrewoodVillage"] = {
+["Iksen-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Wànda-PyrewoodVillage",
 	"Neski-PyrewoodVillage",
 },
-["Bolt-MirageRaceway"] = {
+["Bolt-MirageRaceway"] = { -- serverPerspective: NethergardeKeep
 	"Merlina-MirageRaceway",
 	"Stormcrow-MirageRaceway",
 	"Joyce-MirageRaceway",
 	"Deathwish-MirageRaceway",
 },
-["Kyia-PyrewoodVillage"] = {
+["Kyia-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Ronna-PyrewoodVillage",
 },
-["Barsikk-PyrewoodVillage"] = {
+["Barsikk-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Emboukkan-PyrewoodVillage",
 },
-["Corto-PyrewoodVillage"] = {
+["Gunnvá-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
+	"Vár-PyrewoodVillage",
+},
+["Corto-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Driel-PyrewoodVillage",
 },
-["Littlek-PyrewoodVillage"] = {
+["Littlek-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Lucenera-PyrewoodVillage",
 	"Littlestar-PyrewoodVillage",
 	"Nibiru-PyrewoodVillage",
 },
-["Gunnvá-PyrewoodVillage"] = {
-	"Vár-PyrewoodVillage",
-},
-["Grisespy-PyrewoodVillage"] = {
+["Grisespy-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
 	"Linensstuff-PyrewoodVillage",
 	"Wetpaper-PyrewoodVillage",
 },
-["Bluetoes-PyrewoodVillage"] = {
+["Bluetoes-PyrewoodVillage"] = { -- serverPerspective: NethergardeKeep
+	"Zygothos-PyrewoodVillage",
 	"Snazen-PyrewoodVillage",
+	"Refillplz-PyrewoodVillage",
+	"Zygo-PyrewoodVillage",
 },
-["Cichy-PyrewoodVillage"] = {
+["Cichy-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Gnomemonster-PyrewoodVillage",
 	"Turecki-PyrewoodVillage",
 },
-["Bertje"] = {
+["Bertje"] = { -- serverPerspective: MirageRaceway
 	"Okeydokey-PyrewoodVillage",
 	"Slapjanus-PyrewoodVillage",
 	"Slungel-PyrewoodVillage",
@@ -741,27 +753,27 @@
 	"Epke-PyrewoodVillage",
 	"Quackery-PyrewoodVillage",
 },
-["Darek-NethergardeKeep"] = {
+["Darek-NethergardeKeep"] = { -- serverPerspective: MirageRaceway
 	"Darkowiak-NethergardeKeep",
 },
-["Tutcy-PyrewoodVillage"] = {
+["Tutcy-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Velsigne-PyrewoodVillage",
 },
-["Benbrytaren-PyrewoodVillage"] = {
-	"Huggaträd",
+["Benbrytaren-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
+	"Heligebörje",
 	"Slåberg-NethergardeKeep",
 	"Docenten",
 	"Krister-NethergardeKeep",
 	"Fazler",
 	"Smulan-PyrewoodVillage",
-	"Heligebörje",
+	"Huggaträd",
 },
-["Deezr"] = {
+["Deezr"] = { -- serverPerspective: MirageRaceway
 	"Déezy-PyrewoodVillage",
 	"Dzfarm",
 	"Deezy",
 },
-["Hunterlegion-PyrewoodVillage"] = {
+["Hunterlegion-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Legionpower-PyrewoodVillage",
 	"Legionrock-PyrewoodVillage",
 	"Legiongold",
@@ -773,34 +785,34 @@
 	"Legionrogue-PyrewoodVillage",
 	"Legionwarior-PyrewoodVillage",
 },
-["Baerlyn-NethergardeKeep"] = {
+["Baerlyn-NethergardeKeep"] = { -- serverPerspective: MirageRaceway
 	"Wayren-NethergardeKeep",
 },
-["Curise-NethergardeKeep"] = {
+["Curise-NethergardeKeep"] = { -- serverPerspective: MirageRaceway
 	"Natureheals-NethergardeKeep",
 },
-["Kelissa-PyrewoodVillage"] = {
+["Kelissa-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Rubble-PyrewoodVillage",
 	"Salisya-PyrewoodVillage",
 },
-["Jazeerah-PyrewoodVillage"] = {
+["Jazeerah-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Lumathra-PyrewoodVillage",
 },
-["Druidofmir-PyrewoodVillage"] = {
+["Druidofmir-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Markofmir-PyrewoodVillage",
 	"Warriorofmir-PyrewoodVillage",
 	"Lockofmir-PyrewoodVillage",
 },
-["Boreax"] = {
+["Boreax"] = { -- serverPerspective: MirageRaceway
 	"Denthor-NethergardeKeep",
 },
-["Blixthalka-PyrewoodVillage"] = {
+["Blixthalka-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Nannae-PyrewoodVillage",
 },
-["Deadly-PyrewoodVillage"] = {
+["Deadly-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Deadlygun-PyrewoodVillage",
 },
-["Agravanti-NethergardeKeep"] = {
+["Agravanti-NethergardeKeep"] = { -- serverPerspective: MirageRaceway
 	"Kuby-NethergardeKeep",
 	"Astalofix-NethergardeKeep",
 	"Banksg-NethergardeKeep",
@@ -811,41 +823,41 @@
 	"Sluger-NethergardeKeep",
 	"Zaelofix-NethergardeKeep",
 },
-["Helenn-NethergardeKeep"] = {
-	"Sarugirl-NethergardeKeep",
+["Helenn-NethergardeKeep"] = { -- serverPerspective: MirageRaceway
 	"Valería-NethergardeKeep",
+	"Sarugirl-NethergardeKeep",
 },
-["Cauvin"] = {
+["Cauvin"] = { -- serverPerspective: MirageRaceway
 	"Kilig",
 },
-["Ceilie-NethergardeKeep"] = {
+["Ceilie-NethergardeKeep"] = { -- serverPerspective: MirageRaceway
 	"Linyera-PyrewoodVillage",
 },
-["Dondrakiis-PyrewoodVillage"] = {
+["Dondrakiis-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Dondrakiss-PyrewoodVillage",
 	"Dondrakis-PyrewoodVillage",
 	"Vandrakis-PyrewoodVillage",
 },
-["Bonker-NethergardeKeep"] = {
+["Bonker-NethergardeKeep"] = { -- serverPerspective: MirageRaceway
 	"Stompson-NethergardeKeep",
 },
-["Gracilis"] = {
-	"Parvusfemina",
+["Gracilis"] = { -- serverPerspective: MirageRaceway
 	"Plåstra",
+	"Parvusfemina",
 },
-["Lastlane"] = {
+["Lastlane"] = { -- serverPerspective: MirageRaceway
 	"Timenofear",
 },
-["Hau"] = {
+["Hau"] = { -- serverPerspective: MirageRaceway
 	"Haugaard",
 },
-["Karamellie-NethergardeKeep"] = {
+["Karamellie-NethergardeKeep"] = { -- serverPerspective: MirageRaceway
 	"Lyles-NethergardeKeep",
 },
-["Lernaut-PyrewoodVillage"] = {
+["Lernaut-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Tranule-PyrewoodVillage",
 },
-["Fire-PyrewoodVillage"] = {
+["Fire-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Jude-PyrewoodVillage",
 	"Smith-PyrewoodVillage",
 	"Soul-PyrewoodVillage",
@@ -855,47 +867,53 @@
 	"Hide-PyrewoodVillage",
 	"Sane-PyrewoodVillage",
 },
-["Damagecase-PyrewoodVillage"] = {
+["Damagecase-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Implifier-PyrewoodVillage",
 },
-["Ezelleas-PyrewoodVillage"] = {
+["Ezelleas-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Ezhuntard-PyrewoodVillage",
 	"Ezlock-PyrewoodVillage",
 },
-["Sicari-PyrewoodVillage"] = {
+["Sicari-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Skarlock-PyrewoodVillage",
 },
-["Phabi-PyrewoodVillage"] = {
+["Phabi-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Phóbie-PyrewoodVillage",
 },
-["Althur"] = {
+["Althur"] = { -- serverPerspective: MirageRaceway
 	"Icehell",
 },
-["Emberfall-PyrewoodVillage"] = {
+["Emberfall-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Nightstrider-PyrewoodVillage",
 },
-["Anqua-PyrewoodVillage"] = {
+["Anqua-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Ravenshade-NethergardeKeep",
 	"Ösp-PyrewoodVillage",
 },
-["Agobun-PyrewoodVillage"] = {
+["Zadedruid-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
+	"Zadelock-PyrewoodVillage",
+	"Zadepaly-PyrewoodVillage",
+	"Zadezero-PyrewoodVillage",
+	"Zadehunt-PyrewoodVillage",
+},
+["Agobun-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Agoburn-PyrewoodVillage",
 	"Agobunreturn-PyrewoodVillage",
 },
-["Belgarion-NethergardeKeep"] = {
+["Belgarion-NethergardeKeep"] = { -- serverPerspective: MirageRaceway
 	"Tas-NethergardeKeep",
 	"Elric-NethergardeKeep",
 	"Underhill-NethergardeKeep",
 },
-["Shendhealing"] = {
+["Shendhealing"] = { -- serverPerspective: MirageRaceway
 	"Shendnoods",
 },
-["Aurorasylva-PyrewoodVillage"] = {
+["Aurorasylva-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
+	"Féya-PyrewoodVillage",
 	"Crépusculla-PyrewoodVillage",
 	"Crépuscula-PyrewoodVillage",
-	"Féya-PyrewoodVillage",
 },
-["Hiphoituri"] = {
+["Hiphoituri"] = { -- serverPerspective: MirageRaceway
 	"Hipryöväri",
 	"Hiplock",
 	"Hiptaikuri",
@@ -903,31 +921,35 @@
 	"Hiphuntteri",
 	"Hiptietäjä",
 },
-["Latheralus-PyrewoodVillage"] = {
+["Latheralus-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Oxymoron-PyrewoodVillage",
 	"Rollins-PyrewoodVillage",
 	"Zurt-PyrewoodVillage",
 },
-["Darkage-PyrewoodVillage"] = {
+["Darkage-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Lexi-PyrewoodVillage",
 },
-["Grist-PyrewoodVillage"] = {
+["Grist-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Weatherlight-PyrewoodVillage",
 },
-["Kajaskja-PyrewoodVillage"] = {
+["Kajaskja-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Títanía-PyrewoodVillage",
 },
-["Skawolf-PyrewoodVillage"] = {
+["Skawolf-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Skazur-PyrewoodVillage",
 },
-["Namnhelvete"] = {
+["Namnhelvete"] = { -- serverPerspective: MirageRaceway
 	"Snusdosan",
 	"Philanselmo",
 },
-["Belesuna-PyrewoodVillage"] = {
+["Belesuna-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Mahulena-PyrewoodVillage",
 },
-["Bajdoffa-PyrewoodVillage"] = {
+["Mélissande-NethergardeKeep"] = { -- serverPerspective: MirageRaceway
+	"Turgøn-PyrewoodVillage",
+	"Satänas-PyrewoodVillage",
+},
+["Bajdoffa-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Bajdoffpala-PyrewoodVillage",
 	"Bajdoffw-PyrewoodVillage",
 	"Bajdoffbank-PyrewoodVillage",
@@ -936,113 +958,109 @@
 	"Bajdoffr-PyrewoodVillage",
 	"Bajdoffy-PyrewoodVillage",
 },
-["Eliphaslevi"] = {
+["Eliphaslevi"] = { -- serverPerspective: MirageRaceway
 	"Julius",
 	"Jonassalk",
 	"Isabella",
 	"Jadis",
 	"Robiku",
 },
-["Erguine"] = {
+["Erguine"] = { -- serverPerspective: MirageRaceway
 	"Ertzaki",
 },
-["Dalgren-PyrewoodVillage"] = {
+["Dalgren-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Miljac-PyrewoodVillage",
 	"Enkidu-PyrewoodVillage",
 	"Kaim-PyrewoodVillage",
 	"Ilira-PyrewoodVillage",
 },
-["Gennu-NethergardeKeep"] = {
+["Gennu-NethergardeKeep"] = { -- serverPerspective: MirageRaceway
 	"Gurlarn-NethergardeKeep",
 	"Jeroed-NethergardeKeep",
 },
-["Rosie-PyrewoodVillage"] = {
+["Rosie-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Rosiefire-PyrewoodVillage",
 },
-["Brewlord-NethergardeKeep"] = {
+["Brewlord-NethergardeKeep"] = { -- serverPerspective: MirageRaceway
 	"Captbsmith-NethergardeKeep",
 },
-["Kaixali-PyrewoodVillage"] = {
+["Kaixali-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Xaurime-PyrewoodVillage",
 	"Veirani-PyrewoodVillage",
 	"Kharroch-PyrewoodVillage",
 	"Omorax-PyrewoodVillage",
 	"Uroch-PyrewoodVillage",
 },
-["Diccinbaus-PyrewoodVillage"] = {
+["Diccinbaus-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Èos-PyrewoodVillage",
 	"Ilovedeek-PyrewoodVillage",
 },
-["Ariane-PyrewoodVillage"] = {
+["Ariane-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Shania-PyrewoodVillage",
 },
-["Bonkei-PyrewoodVillage"] = {
+["Bonkei-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Novacore-PyrewoodVillage",
 	"Hililuk-PyrewoodVillage",
 	"Roronoa-PyrewoodVillage",
 	"Woozie-PyrewoodVillage",
 },
-["Mélissande-NethergardeKeep"] = {
-	"Satänas-PyrewoodVillage",
-	"Turgøn-PyrewoodVillage",
-},
-["Mccracken-PyrewoodVillage"] = {
+["Mccracken-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Pwny-PyrewoodVillage",
 },
-["Roflrolf-PyrewoodVillage"] = {
+["Roflrolf-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Warháwk-PyrewoodVillage",
 },
-["Hela-NethergardeKeep"] = {
+["Hela-NethergardeKeep"] = { -- serverPerspective: MirageRaceway
 	"Polgara-NethergardeKeep",
 	"Nemesis-NethergardeKeep",
 },
-["Vidina"] = {
+["Vidina"] = { -- serverPerspective: MirageRaceway
 	"Vidina-PyrewoodVillage",
 },
-["Grixi"] = {
+["Grixi"] = { -- serverPerspective: MirageRaceway
 	"Ragekyle",
 },
-["Upsydaisy-PyrewoodVillage"] = {
+["Gstríng"] = { -- serverPerspective: MirageRaceway
+	"Proctologist",
+},
+["Upsydaisy-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Yojojo-PyrewoodVillage",
 	"Ziggypiggy-PyrewoodVillage",
 },
-["Zadelock-PyrewoodVillage"] = {
-	"Zadezero-PyrewoodVillage",
-},
-["Gironima"] = {
+["Gironima"] = { -- serverPerspective: MirageRaceway
 	"Gironis",
 	"Gironto",
 },
-["Monogorn-PyrewoodVillage"] = {
+["Monogorn-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Monogorna-PyrewoodVillage",
 },
-["Alen-PyrewoodVillage"] = {
+["Alen-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"David-PyrewoodVillage",
 },
-["Bebergamote-PyrewoodVillage"] = {
+["Bebergamote-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Dhealer-PyrewoodVillage",
 	"Bibounne-PyrewoodVillage",
 	"Cleanër-PyrewoodVillage",
 	"Petanker-PyrewoodVillage",
 },
-["Catschen-PyrewoodVillage"] = {
+["Catschen-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Lucker-PyrewoodVillage",
 },
-["Corrai-PyrewoodVillage"] = {
+["Corrai-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Ivyrayne-PyrewoodVillage",
 	"Vishious-PyrewoodVillage",
 	"Inkie-PyrewoodVillage",
 	"Libbie-PyrewoodVillage",
 	"Dawt-PyrewoodVillage",
 },
-["Saleeh-PyrewoodVillage"] = {
+["Saleeh-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Seleeh-PyrewoodVillage",
 },
-["Fabar-NethergardeKeep"] = {
-	"Krösna-NethergardeKeep",
+["Fabar-NethergardeKeep"] = { -- serverPerspective: MirageRaceway
 	"Fobar-NethergardeKeep",
+	"Krösna-NethergardeKeep",
 },
-["Liabala-PyrewoodVillage"] = {
+["Liabala-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Polarbeer-PyrewoodVillage",
 	"Mikehunt-PyrewoodVillage",
 	"Liaherbs",
@@ -1050,46 +1068,46 @@
 	"Thebluepill-PyrewoodVillage",
 	"Wiskeybarrel-PyrewoodVillage",
 },
-["Snippz-PyrewoodVillage"] = {
+["Snippz-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Uvær-PyrewoodVillage",
 },
-["Auctionhero"] = {
+["Auctionhero"] = { -- serverPerspective: MirageRaceway
 	"Dalmok",
 },
-["Gstríng"] = {
-	"Proctologist",
-},
-["Iksen-PyrewoodVillage"] = {
+["Iksen-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Wànda-PyrewoodVillage",
 	"Neski-PyrewoodVillage",
 },
-["Bolt"] = {
+["Bolt"] = { -- serverPerspective: MirageRaceway
 	"Merlina",
 	"Stormcrow",
 	"Joyce",
 	"Deathwish",
 },
-["Kyia-PyrewoodVillage"] = {
+["Kyia-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Ronna-PyrewoodVillage",
 },
-["Barsikk-PyrewoodVillage"] = {
+["Barsikk-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Emboukkan-PyrewoodVillage",
 },
-["Corto-PyrewoodVillage"] = {
+["Gunnvá-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
+	"Vár-PyrewoodVillage",
+},
+["Corto-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Driel-PyrewoodVillage",
 },
-["Littlek-PyrewoodVillage"] = {
+["Littlek-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Lucenera-PyrewoodVillage",
 	"Littlestar-PyrewoodVillage",
 	"Nibiru-PyrewoodVillage",
 },
-["Gunnvá-PyrewoodVillage"] = {
-	"Vár-PyrewoodVillage",
-},
-["Grisespy-PyrewoodVillage"] = {
+["Grisespy-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
 	"Linensstuff-PyrewoodVillage",
 	"Wetpaper-PyrewoodVillage",
 },
-["Bluetoes-PyrewoodVillage"] = {
+["Bluetoes-PyrewoodVillage"] = { -- serverPerspective: MirageRaceway
+	"Zygothos-PyrewoodVillage",
 	"Snazen-PyrewoodVillage",
+	"Refillplz-PyrewoodVillage",
+	"Zygo-PyrewoodVillage",
 },

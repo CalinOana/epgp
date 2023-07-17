@@ -6,6 +6,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.*;
+import java.util.stream.Collectors;
 
 @Service
 public class AltService {
@@ -39,7 +40,7 @@ public class AltService {
 
                     String main = entry.getKey();
                     Set<String> alts = entry.getValue();
-                    List<String> tokenizedMainOrAltsFromFile = mainOrAlts.stream().flatMap(s -> Arrays.stream(s.split(","))).toList();
+                    List<String> tokenizedMainOrAltsFromFile = mainOrAlts.stream().flatMap(s -> Arrays.stream(s.split(","))).collect(Collectors.toList());
                     foundDuplicate = tokenizedMainOrAltsFromFile.contains(main) || tokenizedMainOrAltsFromFile.stream().anyMatch(alts::contains);
                     if (foundDuplicate) {
                         break;

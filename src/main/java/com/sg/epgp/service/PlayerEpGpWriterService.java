@@ -24,6 +24,7 @@ public class PlayerEpGpWriterService {
         strategy.setColumnOrderOnWrite(new LiteralComparator<>(Arrays.asList("NAME", "EFFORTPOINTS", "GEARPOINTS").toArray(String[]::new)));
         StatefulBeanToCsv<PlayerEpGp> beanToCsv = new StatefulBeanToCsvBuilder<>(writer)
             .withApplyQuotesToAll(false)
+            .withLineEnd(",\n")
             .withMappingStrategy(strategy).build();
         beanToCsv.write(playerEpGpList);
         writer.close();
